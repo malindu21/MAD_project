@@ -3,12 +3,12 @@
     <string name="btn1">Get Started</string>
     <string name="btnLogin">Login</string>
     <string name="btnSingup">Singup</string>
-    <string name="btnUserProfile">User Profile</string>
-    <string name="btnShowingNow">Showing Now</string>
-    <string name="addCard">Add Card</string>
-    
-
-
+    <string name="btnUserProfile">User_Profile</string>
+    <string name="btnShowingNow">Showing_Now</string>
+    <string name="addCard">Add_Card</string>
+    <string name="cardNo">CardNo</string>
+    <string name="my">MonthYear</string>
+    <string name="saveCard">Save_Card</string>
 
 
 </resources>
