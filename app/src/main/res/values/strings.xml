@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="topic">Create an account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpass">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="lastMovie">Last Movie</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="continueNext">Continue</string>
+    <string name="selectSeat">Select your seat</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="row1">Row 1</string>
+    <string name="row2">Row 2</string>
+    <string name="row3">Row 3</string>
+    <string name="row4">Row 4</string>
+    <string name="row5">Row 5</string>
+</resources>
