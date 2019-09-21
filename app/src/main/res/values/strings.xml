@@ -23,4 +23,10 @@
     <string name="row3">Row 3</string>
     <string name="row4">Row 4</string>
     <string name="row5">Row 5</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="Telephone">Telephone</string>
+    <string name="login">Login</string>
+    <string name="user_profile">User Profile</string>
+    <string name="home">Home</string>
 </resources>
