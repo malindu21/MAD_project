@@ -13,7 +13,7 @@ public class Login extends AppCompatActivity {
 
     DatabaseHelper movieDb;
     private EditText userName,password;
-    private Button Login;
+    private Button Login,signUp;
     //private int counter = 3;
 
 
@@ -25,7 +25,9 @@ public class Login extends AppCompatActivity {
 
         userName = findViewById(R.id.txtuserName2);
         password = findViewById(R.id.txtpassword2);
+
         Login = findViewById(R.id.btnlogin);
+        signUp = findViewById(R.id.btnSignup);
 
        /* Login.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -53,7 +55,7 @@ public class Login extends AppCompatActivity {
     }*/
 
     public void register(View view){
-        Intent intent = new Intent(this,Login.class);
+        Intent intent = new Intent(this,register.class);
         startActivity(intent);
     }
 
